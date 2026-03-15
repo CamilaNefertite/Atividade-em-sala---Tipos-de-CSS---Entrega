@@ -1,3 +1,3 @@
-# Atividade-em-sala---Tipos-de-CSS---Entrega
+# Atividade em sala - Flexbox 01
 
 Atividade Acadêmica sobre CSS
